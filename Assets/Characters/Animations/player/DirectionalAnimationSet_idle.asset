@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 330b558923f3a294d8bf187112e8752b, type: 3}
+  m_Name: DirectionalAnimationSet_idle
+  m_EditorClassIdentifier: Assembly-CSharp::DirectionAnimation
+  <Up>k__BackingField: {fileID: 7400000, guid: 3375974accd919544af985f8d9c341d3, type: 2}
+  <Down>k__BackingField: {fileID: 7400000, guid: d75bbec02f09e604ca4a9546e7109596, type: 2}
+  <Right>k__BackingField: {fileID: 7400000, guid: cf817e5ccf0785c489b5fff20f634756, type: 2}
+  <Left>k__BackingField: {fileID: 7400000, guid: cf817e5ccf0785c489b5fff20f634756, type: 2}
